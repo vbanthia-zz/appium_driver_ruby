@@ -2,13 +2,21 @@
 
 ## Installation
 
-```
+```sh
 git clone git@github.com:vbanthia/appium_driver_ruby.git
 bundle install
+
+# Install appium
+npm install
+```
+
+## Run appium server
+
+```sh
+./node_modules/.bin/appium --session-override
 ```
 
 ## Usages
-
 ```rb
 require 'appium_driver'
 

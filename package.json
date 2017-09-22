@@ -1,0 +1,8 @@
+{
+  "name": "appium-driver",
+  "version": "1.0.0",
+  "author": "Vishal Banthia",
+  "dependencies": {
+    "appium": "1.6.4"
+  }
+}
